@@ -13,3 +13,37 @@ h1{
     font-size: 60px;
     text-align: center;
 }
+.white{
+    color: white;
+}
+.red{
+    color: red;
+}
+.color-there{
+    font-size: 40px;
+}
+.main{
+    width: 400px;
+    margin: 50px auto 0px auto;
+
+}
+h3{
+    text-align: center;
+    padding: 10px;
+}
+.go-there{
+    background-color: rgba(0,0,0,0.5);
+    width: 100%;
+    font-size: 18px;
+    border-radius: 10px;
+    border: 10px solid rgba(255,255,255,0.3);
+    box-shadow: 2px 2px 15px rgba(0,0,0,0.3);
+    color: #fff;
+}
+.input-here{
+    margin: 40px;
+}
+label{
+    color: rgb(209, 66, 66);
+    font-size: 18;
+}
